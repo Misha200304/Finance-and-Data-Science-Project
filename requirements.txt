@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+yfinance
+scikit-learn
+requests
+lxml
+html5lib
